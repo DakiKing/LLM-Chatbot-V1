@@ -25,7 +25,7 @@ with open("../notebooks/data/products.json", "r", encoding="utf-8") as f:
     products = json.load(f)
 
 # OpenAI API Key
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 def get_embedding(text):
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
