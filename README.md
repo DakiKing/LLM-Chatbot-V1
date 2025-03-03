@@ -3,7 +3,7 @@
         <td><img src="https://github.com/DakiKing/LLM-Chatbot-V1/blob/main/chat.png?raw=true" width="300px">
         </td>
         <td>
-            <h1>Weather-Dashboard</h1>
+            <h1>LLM ChatBot</h1>
    
 <h2>🚀 Features</h2>
         <ul>
