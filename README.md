@@ -24,19 +24,15 @@
             <li><strong>Tailwind CSS</strong> - Styling</li>
         </ul>
 
-<h2>📦 Installation</h2>
-<h2>1️⃣ Clone the Repository</h3>
-    <pre><code>git clone https://github.com/DakiKing/LLM-Chatbot-V1.git
-      
-<h2>2️⃣ Setup the Backend (FastAPI)</h3>
-    <p>cd backend</p>
-<h2>3️⃣ Setup the Frontend (React)</h3>
-    <p>cd frontend</p>
-<h2>📡 API Endpoints</h2>
-<h3>🔹 Search Products</h3>
-    <p>GET /search?query=your_product_query</p>  
-<h3>🔹 Chat with AI</h3>
-    <p>GET /chat?query=your_message</p>
+
+<h2>Installation </h2>
+<h3>Clone the repository </h3>
+<p>git clone https://github.com/DakiKing/LLM-Chatbot-V1.git</p>     
+<h3> Setup the Backend (FastAPI)</h3>
+<p>cd backend  --> uvicorn main:app --reload </p>
+<h3> Setup the Frontend (React)</h3>
+<p>cd frontend --> npm start  </p>
+<
         
 </td>
  </tr>
